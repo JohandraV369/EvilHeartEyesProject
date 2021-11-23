@@ -1,14 +1,14 @@
 body
 {
-	background-color: #FBE7C6;
-    opacity: 0.6;
+	background-color:#FBE7C6;
+   
 }
 
 
 h1
 {
 
-	color:#B4F8C8;
+	color:#A0E7E5;
 	font-family: papyrus;
 	font-size: 40px;
 
@@ -16,7 +16,7 @@ h1
 
 p
 {
-	color: #99CCFF;
+	color:#B4F8C8;
 	font-family: monaco;
 	font-size: 20px;
 	text-align: inherit;
@@ -37,7 +37,7 @@ ul
 
 a
 {
-	color:  #DAF7A6;
+	color:  #FFAEBC;
 
 }
 
