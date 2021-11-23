@@ -1,6 +1,6 @@
 body
 {
-	background-color:#FBE7C6;
+	background-color:#98B66E;
    
 }
 
@@ -16,7 +16,7 @@ h1
 
 p
 {
-	color:#B4F8C8;
+	color:#F9D876;
 	font-family: monaco;
 	font-size: 20px;
 	text-align: inherit;
@@ -26,13 +26,13 @@ p
 a:hover
 {
 
-	color: #FF33FF;
+	color: #C5E5A5;
 }
 
 ul
 {
 
-	color:#A0E7E5;
+	color#FBE39D;
 }
 
 a
